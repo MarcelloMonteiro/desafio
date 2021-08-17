@@ -27,7 +27,7 @@ const PromotionSearch = () => {
                 <Link to="/create">Novo Carro</Link>
             </header>
             <input
-                type="search"
+                type="search"   
                 className="promotion-search__input"
                 placeholder="Buscar"
                 value={search}
