@@ -4,6 +4,7 @@ import './index.css';
 import Root from './pages/Root';
 import reportWebVitals from './reportWebVitals';
 
+
 ReactDOM.render(
   <React.StrictMode>
     <Root />
